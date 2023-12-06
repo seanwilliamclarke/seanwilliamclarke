@@ -1,5 +1,5 @@
 ### Hi there!  👋
-## 🚧 Profile is in the works: stay tuned for highlights of my analytics project work
+#### 🚧 My profile is still in the works... highlights of my analytics project work soon to come!
 
 #### A bit about me for now...
 - 🎓 Currently pursuing a Master's in Management in Analytics @ McGill University
