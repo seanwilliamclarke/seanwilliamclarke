@@ -1,7 +1,6 @@
 ### Hi there!  👋
 #### 🚧 My profile is still in the works... highlights of my analytics project work soon to come!
 
-#### A bit about me for now...
 - 🎓 Currently pursuing a Master's in Management in Analytics @ McGill University
 - 🌱 Learning and exploring advanced analytics techniques
 - 👯 Open to collaboration
