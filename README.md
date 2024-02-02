@@ -1,6 +1,5 @@
-### Hi there!  👋
-#### 🚧 My profile is still in the works... highlights of my analytics project work soon to come!
-
+### Hi there!👋
+#### Welcome to my GitHub!
   - 🎓 Master's of Management in Analytics @ McGill University
   - 🌱 Learning and exploring advanced analytics techniques
   - 👯 Open to collaboration
