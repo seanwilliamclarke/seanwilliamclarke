@@ -28,7 +28,7 @@ This GitHub is my sandbox — I use it to:
 ---
 
 ### 📫 Let's Connect
-- 🧑‍💻 [Portfolio Website](https://seanwclarke.com)
+- 🧑‍💻 [Personal Site](https://seanwclarke.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/seanwclarke)
 - 📬 Open to freelance work, collaborations, and good conversations
 
