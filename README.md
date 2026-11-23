@@ -1,7 +1,9 @@
-# Hi, I'm Sean Clarke
+## Hi, I’m Sean.
 
-I work in data and analytics engineering. I like taking a question that keeps coming up and building a reliable way for people to answer it themselves.
+I grew up in Whitehorse, Yukon, and moved to Montréal for McGill, where I picked up a B.Eng. in Bioresource Engineering and a Master of Management in Analytics. These days I live in Toronto and work as a Senior Analyst on the Client Analytics team at BDC. We measure marketing performance, build data products teams can trust, and help people in strategy, risk, economic research, and executive leadership answer questions with data.
 
-I’m especially interested in how to match messy records, explain why two records were linked, and catch bad data before it reaches the people who rely on it.
+The coolest thing I’ve built at BDC is an entity resolution pipeline. It figures out when records from different sources describe the same business, and it’s now being adopted as a shared identity foundation for the bank.
 
-[Website](https://seanwclarke.com) · [LinkedIn](https://www.linkedin.com/in/sean-w-clarke/)
+Between work and a few of life’s curveballs, I realized it’s been a while since I made something of my own outside work. I’d like to change that and share what I make as I go. Follow along if you’re curious, or reach out and introduce yourself. I’m always up for coffee or a walk and a chat.
+
+[Personal site](https://seanwclarke.com) · [LinkedIn](https://www.linkedin.com/in/sean-w-clarke/)
